@@ -2,7 +2,7 @@
 
 **Backend Engineer building SaaS products with Laravel.**
 
-I've spent the last 4+ years working remotely with US and UAE startups — often as the only engineer on the team — owning everything from architecture decisions to production deployments.
+I've spent the last 4+ years working remotely with US and UAE startups and often as the only engineer on the team, owning everything from architecture decisions to production deployments.
 
 🔭 **Current work:** Backend developer at Bright (cybersecurity SaaS)
 
