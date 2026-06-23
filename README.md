@@ -17,5 +17,3 @@ I've spent the last 4+ years working remotely with US and UAE startups — often
 📫 **Contact:** saeedhosansh@gmail.com · [LinkedIn](https://linkedin.com/in/saeedhosan)
 
 ---
-
-*Available for remote Laravel/SaaS opportunities.*
